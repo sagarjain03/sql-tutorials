@@ -207,4 +207,12 @@ ORDER BY hire_date ASC
 LIMIT 1;
 
 select min(hire_date) from employees;
+
+
+
+
+
+
+
+
 use CompanyDB;
